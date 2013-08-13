@@ -1,0 +1,10 @@
+CPAN_AUTHOR=rjbs
+inherit perl
+
+NAME="perl-Data-OptList"
+VERSION=0.108
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Perl option pair parser module"
+DESCRIPTION="Perl module for parsing and validating simple name/value option
+pairs"
